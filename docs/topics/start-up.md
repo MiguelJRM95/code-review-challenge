@@ -11,6 +11,7 @@ En mi caso, que mi entorno estaba ya preparado, la he podido arrancar con:
 Al arrancarla los endpoints:
 
 > /ads/quality
+> 
 > /ads/public
 
 Daban un error 500.
