@@ -8,7 +8,7 @@
 
 ---
 
-###Puntos a comentar según mi visión:
+### Puntos a comentar según mi visión:
 
 1. 🚀 **[Arranque de la API](./topics/start-up.md)**
 2. 🧪 **[Estructura/Arquitectura escogida](./topics/architecture.md)**
